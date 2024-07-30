@@ -1,0 +1,6 @@
+framework module Pods_RTImageX {
+  umbrella header "Pods-RTImageX-umbrella.h"
+
+  export *
+  module * { export * }
+}
